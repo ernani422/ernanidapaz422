@@ -1,0 +1,24 @@
+2025-07-11 20:20:53.077 [info] Extension host with pid 1657 started
+2025-07-11 20:20:53.115 [info] Lock '/home/ernanidapaz422/.codeoss/data/User/workspaceStorage/4f43d737/vscode.lock': Lock acquired.
+2025-07-11 20:20:53.251 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-11 20:20:53.449 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-11 20:20:53.591 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-11 20:20:53.591 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-11 20:20:54.696 [info] Eager extensions activated
+2025-07-11 20:20:54.697 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-07-11 20:20:54.698 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2025-07-11 20:20:54.698 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2025-07-11 20:20:54.699 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-11 20:20:54.699 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-11 20:20:57.171 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-11 20:20:57.172 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-11 20:20:57.172 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-11 20:20:57.371 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-07-11 20:20:59.801 [error] onWillSaveTextDocument-listener from extension 'EditorConfig.EditorConfig' threw ERROR
+2025-07-11 20:20:59.807 [error] Error: timeout
+    at Timeout._onTimeout (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:135:108282)
+    at listOnTimeout (node:internal/timers:581:17)
+    at processTimers (node:internal/timers:519:7)
+2025-07-11 20:30:05.423 [info] Extension host terminating: received terminate message from renderer
+2025-07-11 20:30:05.430 [info] Lock '/home/ernanidapaz422/.codeoss/data/User/workspaceStorage/4f43d737/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-07-11 20:30:05.656 [info] Extension host with pid 1657 exiting with code 0

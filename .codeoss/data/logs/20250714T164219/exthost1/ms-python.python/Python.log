@@ -1,0 +1,16 @@
+2025-07-14 17:09:43.910 [warning] Dir "/home/ernanidapaz422/.pixi/envs" is not watchable (directory does not exist)
+2025-07-14 17:09:43.998 [info] Starting Environment refresh
+2025-07-14 17:09:43.999 [info] Starting Environment refresh
+2025-07-14 17:09:44.025 [info] > hatch env show --json
+2025-07-14 17:09:44.025 [info] cwd: .
+2025-07-14 17:09:44.035 [info] Environments refresh finished (event): 38 milliseconds
+2025-07-14 17:09:44.036 [info] Environments refresh paths discovered: 38 milliseconds
+2025-07-14 17:09:44.036 [info] Environments refresh finished (event): 37 milliseconds
+2025-07-14 17:09:44.036 [info] Environments refresh paths discovered: 37 milliseconds
+2025-07-14 17:09:44.038 [info] Environment refresh took 42 milliseconds
+2025-07-14 17:09:44.039 [info] Environment refresh took 40 milliseconds
+2025-07-14 17:09:44.045 [info] > pyenv which python
+2025-07-14 17:09:44.046 [info] cwd: .
+2025-07-14 17:09:44.069 [info] Python interpreter path: /bin/python
+2025-07-14 17:09:46.397 [info] Starting Jedi language server for ernanidapaz422.
+2025-07-14 17:14:22.659 [info] Send text to terminal: /bin/python /home/ernanidapaz422/hello-world-1/src/app.py

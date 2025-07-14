@@ -1,0 +1,44 @@
+2025-07-11 20:30:20.628 [warning] Dir "/home/ernanidapaz422/hello-world-1/.pixi/envs" is not watchable (directory does not exist)
+2025-07-11 20:30:20.628 [info] Starting Environment refresh
+2025-07-11 20:30:20.628 [info] Searching for interpreters in posix paths locator
+2025-07-11 20:30:20.628 [info] Searching for pyenv environments
+2025-07-11 20:30:20.628 [info] Searching for conda environments
+2025-07-11 20:30:20.628 [info] Searching for global virtual environments
+2025-07-11 20:30:20.628 [info] Searching for custom virtual environments
+2025-07-11 20:30:20.628 [info] pyenv is not installed
+2025-07-11 20:30:20.628 [info] Finished searching for pyenv environments: 32 milliseconds
+2025-07-11 20:30:20.628 [info] Finished searching for custom virtual envs: 32 milliseconds
+2025-07-11 20:30:20.628 [info] > conda info --json
+2025-07-11 20:30:20.628 [info] > hatch env show --json
+2025-07-11 20:30:20.628 [info] cwd: .
+2025-07-11 20:30:20.628 [info] > pyenv which python
+2025-07-11 20:30:20.628 [info] cwd: .
+2025-07-11 20:30:20.628 [info] Finished searching for global virtual envs: 97 milliseconds
+2025-07-11 20:30:20.661 [info] Found: /bin/python --> /bin/python3.12
+2025-07-11 20:30:20.676 [info] Found: /bin/python3 --> /bin/python3.12
+2025-07-11 20:30:20.678 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-07-11 20:30:20.887 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2025-07-11 20:30:20.888 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-07-11 20:30:20.888 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-07-11 20:30:21.171 [info] Finished searching for interpreters in posix paths locator: 673 milliseconds
+2025-07-11 20:30:21.171 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-07-11 20:30:21.214 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2025-07-11 20:30:21.214 [info] Environments refresh paths discovered (event): 730 milliseconds
+2025-07-11 20:30:21.214 [info] Environments refresh paths discovered: 731 milliseconds
+2025-07-11 20:30:23.286 [info] Environments refresh finished (event): 2803 milliseconds
+2025-07-11 20:30:23.357 [info] Environment refresh took 2871 milliseconds
+2025-07-11 20:30:23.490 [info] Python interpreter path: /bin/python
+2025-07-11 20:30:34.955 [info] Starting Jedi language server for hello-world-1.
+2025-07-11 20:34:44.029 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1
+2025-07-11 20:34:47.522 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1
+2025-07-11 20:34:55.002 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1/.vscode/settings.json
+2025-07-11 20:34:56.808 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1/.vscode/settings.json
+2025-07-11 20:34:57.857 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1
+2025-07-11 20:34:58.535 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1/.vscode/settings.json
+2025-07-11 20:34:59.144 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1/.vscode/settings.json
+2025-07-11 20:35:01.563 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1/.vscode/settings.json
+2025-07-11 20:35:01.850 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/testing_tools/unittest_discovery.py ./tests *test.py
+2025-07-11 20:35:01.852 [info] cwd: .
+2025-07-11 20:35:02.290 [info] Discover tests for workspace name: hello-world-1 - uri: /home/ernanidapaz422/hello-world-1
+2025-07-11 20:35:02.570 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/testing_tools/unittest_discovery.py ./tests *test.py
+2025-07-11 20:35:02.570 [info] cwd: .
