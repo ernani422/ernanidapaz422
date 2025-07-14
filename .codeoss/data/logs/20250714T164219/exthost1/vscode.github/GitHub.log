@@ -1,1 +1,2 @@
 2025-07-14 16:42:30.195 [info] Log level: Info
+2025-07-14 17:51:31.185 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for ernani422/ernanidapaz422/21eeda7c8be066efbee787b1bba06d796f640ee0: TypeError: Cannot read properties of null (reading 'author')

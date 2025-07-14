@@ -14,3 +14,4 @@
 2025-07-14 17:09:44.069 [info] Python interpreter path: /bin/python
 2025-07-14 17:09:46.397 [info] Starting Jedi language server for ernanidapaz422.
 2025-07-14 17:14:22.659 [info] Send text to terminal: /bin/python /home/ernanidapaz422/hello-world-1/src/app.py
+2025-07-14 17:44:51.460 [info] Discover tests for workspace name: undefined - uri: /User/settings.json
